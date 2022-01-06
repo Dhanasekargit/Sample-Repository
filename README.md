@@ -6,7 +6,7 @@ class Sekar{
     int n=10; 
     int i;
     for(i=0;i<n;i=i+2){
-      System.out.println(i);
+      System.out.println(i+" ");
     }
   }
 }
